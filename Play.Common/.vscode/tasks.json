@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Pay.Catelog/src/Pay.Catalog.Service/Pay.Catalog.Service.csproj",
+                "${workspaceFolder}/src/Play.Common/Play.Common.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Pay.Catelog/src/Pay.Catalog.Service/Pay.Catalog.Service.csproj",
+                "${workspaceFolder}/src/Play.Common/Play.Common.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Pay.Catelog/src/Pay.Catalog.Service/Pay.Catalog.Service.csproj"
+                "${workspaceFolder}/src/Play.Common/Play.Common.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
