@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Play.Catelog/src/Pay.Catalog.Service/bin/Debug/net5.0/Pay.Catalog.Service.dll",
+            "program": "${workspaceFolder}/Pay.Catelog/src/Pay.Catalog.Service/bin/Debug/net5.0/Pay.Catalog.Service.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Play.Catelog/src/Pay.Catalog.Service",
+            "cwd": "${workspaceFolder}/Pay.Catelog/src/Pay.Catalog.Service",
             "stopAtEntry": false,
             // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
             "serverReadyAction": {
